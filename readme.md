@@ -7,5 +7,4 @@ Part1: EDA and some DataPrep exercises:
 https://nbviewer.jupyter.org/github/RJuro/GA2019/blob/master/GA2019_EDA.ipynb
 
 
-Updated English version: [![Open In Colab](https://colab.research.google.com/github/RJuro/GA2019/blob/master/GA2019_EDA.ipynb#&offline=true&sandboxMode=true)
-
+Part1 – Exploratory Data Analysis and brush-up: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/RJuro/GA2019/blob/master/GA2019_EDA.ipynb#&offline=true&sandboxMode=true)
