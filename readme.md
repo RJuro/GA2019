@@ -20,8 +20,6 @@ Here you will find 3 notebooks with the tutorials for today. They are probably m
 
 ## Bibliometrics
 
-Freshp aplication paper by Daniel, mapping the "Innovation Systems" research field. Gives a good intro in methodology, also maps the whole IS field (might be handy for you):
-
 Rakas, M and Hain, D.S. (under review). "Innovation System Research: Where It Came From, and What It Is Now – A Bibliometric Network Analysis" [--> Available open access here](https://rawgit.com/RJuro/Africalics-PhD-Academy-2018/master/slides/The_Development_of_Innovation_System_Research_RR1.pdf)
 
 
